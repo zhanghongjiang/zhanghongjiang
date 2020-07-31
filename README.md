@@ -1,13 +1,5 @@
+你好，我是 mytiger.
 
-- [中文](中文)
-- [zhanghongjiang](zhanghongjiang)
-- [dddd rrrr](dddd-rrrr)
+> 测试一下神奇的首页功能
 
-
-# zhanghongjiang
-blog
-
-## dddd rrrr
-
-
-### 中文测试
+🌈
